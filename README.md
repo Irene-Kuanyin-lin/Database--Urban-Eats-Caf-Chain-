@@ -39,6 +39,7 @@ Two associative tables resolve many-to-many relationships:
 - Identified entities, attributes, primary keys and foreign keys.
 - Defined relationship cardinalities and business rules.
 - Created a Chen-notation ERD to represent the café chain's operations.
+![Urban Eats Café Chain – Entity Relationship Diagram](ERD.png)
 
 ### 2. MySQL Implementation
 
